@@ -19,9 +19,6 @@ We present to you CoviHeal a two-way system between a donor and patient. The one
 ### Setting Environmental Variables 
 I had provided all environmental variables for testing purpose .
 
-`Video Link :- `: [Click here](https://youtu.be/GTEkIYpCTSc)
-`DevFolio Submission Link :- `: [Click here](https://devfolio.co/submissions/coviheal-085d)
-
 ### Home Page
 ![Home Page ](https://i.imgur.com/4nPe9hX.png)
 ### Patients can find donors according to their requirement .
